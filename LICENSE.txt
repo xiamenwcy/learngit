@@ -1,0 +1,4 @@
+当关闭电脑，重启机器，要进入仓库，可以使用如下命令：
+cd f:/git/git //先进入目录
+cat readme.txt 
+git reflog //查看历史命令
